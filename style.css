@@ -3,17 +3,17 @@
     src: url(SpaceMono-Bold.ttf);
 }
 *{
-    border:0;
+    
     margin: 0;
 }
 body{
-    color: #363636;
+    color: #333333;
 }
 .p1{
     margin-left: 40px;
     margin-top: 30px;
 }
-.div1{
+#div1{
     margin-left: 800px;
     margin-top: -270px;
     font-family: myFont;
@@ -58,4 +58,8 @@ text-align: left;
 }
 #b1{
     text-decoration: underline;
+}
+#home{
+    
+    display: inline-block;
 }
